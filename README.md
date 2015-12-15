@@ -1,2 +1,4 @@
-# TutorialTensorFlow
-Tutorial básico de uso de TensorFlow
+# LibroTensorFlow
+## códigos usados en el libro TensorFlow
+multiplicacion.py
+
